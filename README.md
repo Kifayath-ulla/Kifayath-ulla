@@ -1,5 +1,5 @@
-I'm Kifayath, based in Bengaluru. I work on Embodied AI operations: data, annotation, partnerships, and getting work from 0 to 1.
+hey, i'm kifayath - 19, based in BLR.
 
-I'm on the Ops team at microagi/shift, where I helped build India operations and run high-volume egocentric video capture and annotation.
+i work at a US-based robotics startup, doing a bit of everything: ops, marketing, design, whatever needs doing.
 
-More at [kifayath.in](https://kifayath.in).
+outside of that, i'm deep into agents and love building cool stuff with them. more at [kifayath.in](https://kifayath.in).
