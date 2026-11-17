@@ -1,3 +1,5 @@
-hey! this is kifayath, based in Bangalore. i build local-first tools, including [HeyHumanly](https://github.com/Kifayath-ulla/heyhumanly), a Mac writing coach that runs on your machine.
+I'm Kifayath, based in Bengaluru. I work on Embodied AI operations: data, annotation, partnerships, and getting work from 0 to 1.
 
-visit <a href="https://whosiskifayath.netlify.app" target="_blank" rel="noopener noreferrer">here</a> for more info.
+I'm on the Ops team at microagi/shift, where I helped build India operations and run high-volume egocentric video capture and annotation.
+
+More at [kifayath.in](https://kifayath.in).
